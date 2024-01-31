@@ -10,7 +10,7 @@
 </div>
 
 -----
-<details>
+
   ☎️ contact me
 <div>
   <samp>
