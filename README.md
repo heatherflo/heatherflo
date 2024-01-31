@@ -11,7 +11,7 @@
 
 -----
 <details>
-  <summary>☎️ contact me</summary>
+  ☎️ contact me
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
