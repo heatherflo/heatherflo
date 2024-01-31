@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Heather</h1>
-<h4 align="center">Outdoor adventurer turned coder in her 40's. In love with learning more about front end development and <br>helping businesses work on solving problems directly through their applications.</h4>
+<h4 align="center">Outdoor adventurer turned coder in her 40's. In love with learning more about front end development<br>  and helping businesses work on solving problems directly through their applications.</h4>
 </div>
 
 <div align="center">
