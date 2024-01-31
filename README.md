@@ -45,15 +45,15 @@
 <div>
 <samp>
 <h2 align="center">About this Account</h2>
- <p align="center">
-  <a href="github.com/heatherflo" target="blank"><img align="center" 
+<!--  <p align="center"> -->
+<!--   <a href="github.com/heatherflo" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   <a href="https://1999azzar.github.io/1999AZZAR/"><img align="center" 
      src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
      alt="website" /></a>
-  </p>
-  <p align="center">
+  </p> -->
+<!--   <p align="center">
   <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center"
      src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
      alt="CodeFactor" /></a>
@@ -68,10 +68,10 @@
   <a href="github.com/1999AZZAR"><img align="center"
      src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
      alt="work on my machine" /></a>
- </p>
- </samp>
+ </p> -->
+<!--  </samp>
 </div>
-</details>
+<!-- </details>
   
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -84,7 +84,7 @@
             <p align="center">
         <a href="https://github.com/1999AZZAR/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: overall Top Langs " /></a>
+          alt="1999AZZAR :: overall Top Langs " /></a> -->
       </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
@@ -201,7 +201,7 @@
 ```
 </details>
 <br/>
-</details> 
+</details>  -->
 
 -----
 Credits: [1999AZZAR](https://github.com/1999AZZAR)
