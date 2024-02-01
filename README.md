@@ -11,7 +11,7 @@
 
 -----
 
-  ☎️ contact me
+ 
 <div>
   <samp>
     <h2 >you can reach me by:</h2>
